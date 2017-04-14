@@ -1,0 +1,5 @@
+print(" first line\n second line\n \"使用双引号\" ")
+print("\123")
+print("alo\n123\"")
+print("---------------")
+print('\97lo\10\04923"')
